@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Countdown Timer Box</string>
+    <string name="app_title">CountdownTimerBox</string>
+    <string name="countdown1">0</string>
+    <string name="countdown2">0</string>
+    <string name="countdown3">0</string>
+    <string name="countdown4">0</string>
+    <string name="countdown5">0</string>
+    <string name="label1">Countdown: 1</string>
+    <string name="label2">Countdown: 2</string>
+    <string name="label3">Countdown: 3</string>
+    <string name="label4">Countdown: 4</string>
+    <string name="label5">Countdown: 5</string>
 </resources>
